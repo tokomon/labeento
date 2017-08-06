@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One|Rajdhani');
+
+* {
+	font-family: 'Poiret One', cursive;
+ } 
+.negro{
+  background-color: black;
+  color:white;
+}
+
+
+.yellow{
+  background-color: yellow;
+  color:black;
+}
+td{
+  width: 40px;
+  height: 40px;
+}
+
+
+ button{
+        font-size:10px;
+        font-family:Verdana,Helvetica;
+        font-weight:bold;
+        color:white;
+        background:#638cb5;
+        border:0px;
+        height:19px;
+}
